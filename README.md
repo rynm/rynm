@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... SWE, DevOPs, MLOps, AI eng, Edge AI, ML
 - 🌱 I’m currently learning ... SW tooling for NN Accelerator cores, Agentic workflows
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... X, @...
+- 📫 How to reach me ... X, @ry8nm
 - Professional work is not shown via github contributions.
 
 <!---
