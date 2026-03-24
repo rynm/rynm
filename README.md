@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... SW tooling for NN Accelerator cores, Agentic workflows
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... X, @...
+- Professional work is not shown via github contributions.
 
 <!---
 rynm/rynm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
